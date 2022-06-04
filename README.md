@@ -1,2 +1,1 @@
-# logo
-logo.infrat.com
+# logo.infrat.com
