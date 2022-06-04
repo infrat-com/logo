@@ -26,7 +26,7 @@ Icon
 
 
 
-Logo of OneDayRun Project
+Logo of InfRat.com
 
 ![1/cover.png](1/cover.png)
 
